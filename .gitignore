@@ -1,31 +1,15 @@
-# Node
-node_modules/
-
-# Build outputs
-dist/
-build/
-
-# OS files
+### macOS
 .DS_Store
-Thumbs.db
-
-# Editor directories
-.vscode/
-.idea/
-.vs/
-
-# Environment files
-.env
-
-# Archives
-*.zip
-*.tar.gz
-
-# Logs
-*.log
-
-# macOS unzip artifact folder
 __MACOSX/
 
-# OneDrive temp files
-~$*
+### Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+### Env
+.env
+
+### IDE / OS
+.vscode/
+.idea/
